@@ -5,7 +5,7 @@ output:
   html_notebook: default
 ---
 
-** Simulating  a single predictor and a nonlinear relationship, such as a sin wave shown below, also investigating the relationship between the cost, epsilon and kernel parameters for a support vector machine model:**
+** Simulating  a single predictor and a nonlinear relationship, such as a sin wave shown below, also investigating the relationship between the cost, epsilon and kernel parameters for a support vector machine model**
 
 ```{r warning=FALSE, echo=FALSE}
 # Load required libraries 
